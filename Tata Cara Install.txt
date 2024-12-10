@@ -1,0 +1,10 @@
+Tata Cara Install
+
+1. Siapkan Folder apapun Namanya, contoh "Game Kubus"
+2. Ekstrak file MonoBleedingEdge.zip
+3. Seret semua file ke dalam folder Game Kubus (sesuaikan nama folder dengan yang anda buat)
+4. Install Game Kubus Biasa.exe
+5. Lalu jalankan
+
+Jika ada saran, silahkan kirim Email ke
+shirleyvonce@gmail.com
